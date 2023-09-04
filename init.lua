@@ -1,5 +1,5 @@
 return {
-  colorscheme = 'github_dark_high_contrast',
+  colorscheme = 'bluloco',
   options = {
     opt = {
       number = true,
